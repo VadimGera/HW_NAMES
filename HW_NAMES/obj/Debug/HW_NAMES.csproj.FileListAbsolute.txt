@@ -1,0 +1,7 @@
+C:\Users\vadim\RiderProjects\HW_NAMES\HW_NAMES\bin\Debug\HW_NAMES.exe
+C:\Users\vadim\RiderProjects\HW_NAMES\HW_NAMES\bin\Debug\HW_NAMES.pdb
+C:\Users\vadim\RiderProjects\HW_NAMES\HW_NAMES\obj\Debug\HW_NAMES.csproj.AssemblyReference.cache
+C:\Users\vadim\RiderProjects\HW_NAMES\HW_NAMES\obj\Debug\HW_NAMES.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadim\RiderProjects\HW_NAMES\HW_NAMES\obj\Debug\HW_NAMES.csproj.CoreCompileInputs.cache
+C:\Users\vadim\RiderProjects\HW_NAMES\HW_NAMES\obj\Debug\HW_NAMES.exe
+C:\Users\vadim\RiderProjects\HW_NAMES\HW_NAMES\obj\Debug\HW_NAMES.pdb
